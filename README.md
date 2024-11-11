@@ -13,7 +13,8 @@ This is the ASP.NET Core Web API Project with endpoint:  POST /api/verify-employ
 ### Steps to Install
 
 1. Open Visual Studio 2022
-2. Clone the Repository
+2. Project code in master branch
+3. Clone the Repository
    git clone https://github.com/nxtbuild/Employment-Verification-API.git
 
 
