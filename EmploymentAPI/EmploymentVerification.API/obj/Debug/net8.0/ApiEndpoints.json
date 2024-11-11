@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EmploymentVerification.API.Controllers.EmploymentVerificationController",
+    "Method": "VerifyEmployment",
+    "RelativePath": "api/verify-employment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmploymentVerification.Models.EmploymentVerificationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

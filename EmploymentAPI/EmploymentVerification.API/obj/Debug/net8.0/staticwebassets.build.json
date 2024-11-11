@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CajCEjnvfjS0fRX84asPdIlGh26iSrkP1P1rcEXlVZ0=",
+  "Source": "EmploymentVerification.API",
+  "BasePath": "_content/EmploymentVerification.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

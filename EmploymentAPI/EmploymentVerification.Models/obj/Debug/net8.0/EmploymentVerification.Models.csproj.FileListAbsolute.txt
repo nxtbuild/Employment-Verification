@@ -1,0 +1,11 @@
+D:\source\EmploymentVerification\EmploymentVerification.Models\bin\Debug\net8.0\EmploymentVerification.Models.deps.json
+D:\source\EmploymentVerification\EmploymentVerification.Models\bin\Debug\net8.0\EmploymentVerification.Models.dll
+D:\source\EmploymentVerification\EmploymentVerification.Models\bin\Debug\net8.0\EmploymentVerification.Models.pdb
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\EmploymentVerification.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\EmploymentVerification.Models.AssemblyInfoInputs.cache
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\EmploymentVerification.Models.AssemblyInfo.cs
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\EmploymentVerification.Models.csproj.CoreCompileInputs.cache
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\EmploymentVerification.Models.dll
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\refint\EmploymentVerification.Models.dll
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\EmploymentVerification.Models.pdb
+D:\source\EmploymentVerification\EmploymentVerification.Models\obj\Debug\net8.0\ref\EmploymentVerification.Models.dll
