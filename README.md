@@ -10,7 +10,7 @@ This is the ASP.NET Core Web API Project with endpoint:  POST /api/verify-employ
 - In-memory data structure
 - Dependency Injection
   
-### Steps to Install
+### Steps to Run The API
 
 1. Open Visual Studio 2022
 2. Project code in master branch
