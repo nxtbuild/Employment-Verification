@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmploymentVerification.Implementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9da52b6699e2ad6a9ef26ba738001be732fa555b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b286d1a4b3fd47cd074e099460d9c43dd83d2eff")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmploymentVerification.Implementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmploymentVerification.Implementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
