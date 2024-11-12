@@ -43,7 +43,7 @@ This is the ASP.NET Core Web API Project with endpoint:  POST /api/verify-employ
    // Than Check Verification Code match or not, if not , display the message.
    // If all checks passed than return the Message= Verified and IsVerified=true.
 
-**In memory Employment records:**
+**Use In memory Employment records for testing:**
 
 Employee ID	Company Name	  Verification Code
 1	          Test Company A	XYZ-007
