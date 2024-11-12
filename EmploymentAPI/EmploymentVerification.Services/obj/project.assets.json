@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\EmploymentVerification\\EmploymentVerification.Services\\EmploymentVerification.Services.csproj",
+      "projectUniqueName": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Services\\EmploymentVerification.Services.csproj",
       "projectName": "EmploymentVerification.Services",
-      "projectPath": "D:\\source\\EmploymentVerification\\EmploymentVerification.Services\\EmploymentVerification.Services.csproj",
+      "projectPath": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Services\\EmploymentVerification.Services.csproj",
       "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\EmploymentVerification\\EmploymentVerification.Services\\obj\\",
+      "outputPath": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,11 +73,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\source\\EmploymentVerification\\EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj": {
-              "projectPath": "D:\\source\\EmploymentVerification\\EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj"
+            "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj": {
+              "projectPath": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj"
             },
-            "D:\\source\\EmploymentVerification\\EmploymentVerification.Models\\EmploymentVerification.Models.csproj": {
-              "projectPath": "D:\\source\\EmploymentVerification\\EmploymentVerification.Models\\EmploymentVerification.Models.csproj"
+            "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentVerification.Models.csproj": {
+              "projectPath": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentVerification.Models.csproj"
             }
           }
         }

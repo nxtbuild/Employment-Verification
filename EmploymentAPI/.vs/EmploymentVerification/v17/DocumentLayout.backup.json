@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\EmploymentVerification\\EmploymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FDFC09-9A5D-4F6C-9068-C4D5AB78A957}|EmploymentVerification.Services\\EmploymentVerification.Services.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.services\\service\\employmentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FDFC09-9A5D-4F6C-9068-C4D5AB78A957}|EmploymentVerification.Services\\EmploymentVerification.Services.csproj|solutionrelative:employmentverification.services\\service\\employmentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FDFC09-9A5D-4F6C-9068-C4D5AB78A957}|EmploymentVerification.Services\\EmploymentVerification.Services.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.services\\interface\\iemploymentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FDFC09-9A5D-4F6C-9068-C4D5AB78A957}|EmploymentVerification.Services\\EmploymentVerification.Services.csproj|solutionrelative:employmentverification.services\\interface\\iemploymentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11F6F6-7E7B-43D0-9A2A-DF0D2EE1D73D}|EmploymentVerification.Models\\EmploymentVerification.Models.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.models\\employmentverificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E11F6F6-7E7B-43D0-9A2A-DF0D2EE1D73D}|EmploymentVerification.Models\\EmploymentVerification.Models.csproj|solutionrelative:employmentverification.models\\employmentverificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11F6F6-7E7B-43D0-9A2A-DF0D2EE1D73D}|EmploymentVerification.Models\\EmploymentVerification.Models.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.models\\employmentverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E11F6F6-7E7B-43D0-9A2A-DF0D2EE1D73D}|EmploymentVerification.Models\\EmploymentVerification.Models.csproj|solutionrelative:employmentverification.models\\employmentverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11F6F6-7E7B-43D0-9A2A-DF0D2EE1D73D}|EmploymentVerification.Models\\EmploymentVerification.Models.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.models\\employmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E11F6F6-7E7B-43D0-9A2A-DF0D2EE1D73D}|EmploymentVerification.Models\\EmploymentVerification.Models.csproj|solutionrelative:employmentverification.models\\employmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE37C574-EDBA-4C61-AEC3-8324D0A1737A}|EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.implementation\\repositories\\employmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE37C574-EDBA-4C61-AEC3-8324D0A1737A}|EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj|solutionrelative:employmentverification.implementation\\repositories\\employmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE37C574-EDBA-4C61-AEC3-8324D0A1737A}|EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.implementation\\interface\\iemployment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE37C574-EDBA-4C61-AEC3-8324D0A1737A}|EmploymentVerification.Implementation\\EmploymentVerification.Implementation.csproj|solutionrelative:employmentverification.implementation\\interface\\iemployment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413E11CD-8B04-4DF9-9232-6477B3D2A2A0}|EmploymentVerification.API\\EmploymentVerification.API.csproj|d:\\source\\employmentverification\\employmentapi\\employmentverification.api\\controllers\\employmentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413E11CD-8B04-4DF9-9232-6477B3D2A2A0}|EmploymentVerification.API\\EmploymentVerification.API.csproj|solutionrelative:employmentverification.api\\controllers\\employmentverificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploymentVerificationService.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Services\\Service\\EmploymentVerificationService.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.Services\\Service\\EmploymentVerificationService.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Services\\Service\\EmploymentVerificationService.cs",
+              "RelativeToolTip": "EmploymentVerification.Services\\Service\\EmploymentVerificationService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:52:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmploymentVerificationService.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Services\\Interface\\IEmploymentVerificationService.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.Services\\Interface\\IEmploymentVerificationService.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Services\\Interface\\IEmploymentVerificationService.cs",
+              "RelativeToolTip": "EmploymentVerification.Services\\Interface\\IEmploymentVerificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:51:11.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmploymentVerificationResponse.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentVerificationResponse.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.Models\\EmploymentVerificationResponse.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentVerificationResponse.cs",
+              "RelativeToolTip": "EmploymentVerification.Models\\EmploymentVerificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:49:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmploymentVerificationRequest.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentVerificationRequest.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.Models\\EmploymentVerificationRequest.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentVerificationRequest.cs",
+              "RelativeToolTip": "EmploymentVerification.Models\\EmploymentVerificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:48:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmploymentRecord.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentRecord.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.Models\\EmploymentRecord.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentRecord.cs",
+              "RelativeToolTip": "EmploymentVerification.Models\\EmploymentRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:47:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmploymentRepository.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Implementation\\Repositories\\EmploymentRepository.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.Implementation\\Repositories\\EmploymentRepository.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Implementation\\Repositories\\EmploymentRepository.cs",
+              "RelativeToolTip": "EmploymentVerification.Implementation\\Repositories\\EmploymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:43:42.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmploymentVerificationController.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.API\\Controllers\\EmploymentVerificationController.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.API\\Controllers\\EmploymentVerificationController.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.API\\Controllers\\EmploymentVerificationController.cs",
+              "RelativeToolTip": "EmploymentVerification.API\\Controllers\\EmploymentVerificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:41:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployment.cs",
+              "DocumentMoniker": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Implementation\\Interface\\IEmployment.cs",
+              "RelativeDocumentMoniker": "EmploymentVerification.Implementation\\Interface\\IEmployment.cs",
+              "ToolTip": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Implementation\\Interface\\IEmployment.cs",
+              "RelativeToolTip": "EmploymentVerification.Implementation\\Interface\\IEmployment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:33:46.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

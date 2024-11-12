@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PozbiUdK6mM=",
+  "dgSpecHash": "8ss2ggUKZns=",
   "success": true,
-  "projectFilePath": "D:\\source\\EmploymentVerification\\EmploymentVerification.Models\\EmploymentVerification.Models.csproj",
+  "projectFilePath": "D:\\source\\EmploymentVerification\\EmploymentAPI\\EmploymentVerification.Models\\EmploymentVerification.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
